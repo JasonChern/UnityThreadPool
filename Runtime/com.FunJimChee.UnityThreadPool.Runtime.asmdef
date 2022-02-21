@@ -1,0 +1,16 @@
+{
+    "name": "com.FunJimChee.UnityThreadPool.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ef1c1e8ee867d724abe6632bd2631d9d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
